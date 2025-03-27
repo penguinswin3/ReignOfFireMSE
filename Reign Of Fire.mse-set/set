@@ -1,0 +1,4027 @@
+﻿mse_version: 2.0.2
+game: magic
+game_version: 2020-04-25
+stylesheet: m15-altered
+stylesheet_version: 2024-01-05
+set_info:
+	title: Reign Of Fire
+	description: A Three colored set designed around a TTRPG campaign I run
+	set_code: ROF
+	set_language: EN
+	symbol: 
+	masterpiece_symbol: 
+	default_stamp: universes beyond
+styling:
+	magic-m15-altered:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: white
+	name: CW01
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: white
+	name: CW02
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: white
+	name: CW03
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: white
+	name: CW04
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: white
+	name: CW05
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: white
+	name: CW06
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: white
+	name: CW07
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: white
+	name: CW08
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: white
+	name: CW09
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: white
+	name: CW10
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: white
+	name: CW11
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: white
+	name: CW12
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: white
+	name: CW13
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: white
+	name: CW14
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: white
+	name: CW15
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: white
+	name: CW16
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 15:24:53
+	card_color: multicolor
+	name: CM01
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: Art depicts a close up of a clasp worn on the shoulder of Jullian Steyr, only able to see his smug grin. Like Lilliana’s Triumph but the bottom half rather than right half. 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 16:08:35
+	card_color: white
+	name: CA06 Hero’s Clasp
+	casting_cost: 1W
+	image: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rarity: common
+	rule_text:
+		
+		<sym>1</sym>, <sym-auto>T</sym-auto>: Add <sym-auto>WB</sym-auto>
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Add <sym-auto>GW</sym-auto>
+	flavor_text: <i-flavor>A true hero must always fulfill their destiny, no matter the means.</i-flavor>
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 17:35:05
+	card_color: white
+	name: CL06
+	image: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: common
+	rule_text:
+		<atom-cardname><nospellcheck>CL06</nospellcheck></atom-cardname> enters tapped
+		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>B</sym-auto>.
+		<sym-auto>T</sym-auto>, Sacrifice this land: Search your library for a plains card, put it onto the battlefield tapped.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: blue
+	name: CU01
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: blue
+	name: CU02
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: blue
+	name: CU03
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: blue
+	name: CU04
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: blue
+	name: CU05
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: blue
+	name: CU06
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: blue
+	name: CU07
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: blue
+	name: CU08
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: blue
+	name: CU09
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: blue
+	name: CU10
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: blue
+	name: CU11
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: blue
+	name: CU12
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: blue
+	name: CU13
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: blue
+	name: CU14
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: blue
+	name: CU15
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: blue
+	name: CU16
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 15:25:31
+	card_color: multicolor
+	name: CM02
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 17:05:20
+	card_color: blue
+	name: CA07 Cultist’s Clasp
+	casting_cost: 1U
+	image: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rarity: common
+	rule_text:
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Add <sym-auto>UB</sym-auto>
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Add <sym-auto>WU</sym-auto>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 15:24:28
+	card_color: blue
+	name: CL07
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: black
+	name: CB01
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: black
+	name: CB02
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: black
+	name: CB03
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: black
+	name: CB04
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: black
+	name: CB05
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: black
+	name: CB06
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: black
+	name: CB07
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: black
+	name: CB08
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: black
+	name: CB09
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: black
+	name: CB10
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: black
+	name: CB11
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: black
+	name: CB12
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: black
+	name: CB13
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: black
+	name: CB14
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: black
+	name: CB15
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: black
+	name: CB16
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 15:25:53
+	card_color: multicolor
+	name: CM03
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 17:05:52
+	card_color: black
+	name: CA08 Convict’s Clasp
+	casting_cost: 1B
+	image: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rarity: common
+	rule_text:
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Add <sym-auto>UB</sym-auto>
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Add <sym-auto>BR</sym-auto>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 15:24:34
+	card_color: black
+	name: CL08
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: red
+	name: CR01
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: red
+	name: CR02
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: red
+	name: CR03
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: red
+	name: CR04
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: red
+	name: CR05
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: red
+	name: CR06
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: red
+	name: CR07
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: red
+	name: CR08
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: red
+	name: CR09
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: red
+	name: CR10
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: red
+	name: CR11
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: red
+	name: CR12
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: red
+	name: CR13
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: red
+	name: CR14
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: red
+	name: CR15
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: red
+	name: CR16
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 15:26:01
+	card_color: multicolor
+	name: CM04
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 17:06:41
+	card_color: red
+	name: CA09 Primalist’s Clasp
+	casting_cost: 1R
+	image: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rarity: common
+	rule_text:
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Add <sym-auto>RG</sym-auto>
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Add <sym-auto>UR</sym-auto>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 15:24:39
+	card_color: red
+	name: CL09
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: green
+	name: CG01
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: green
+	name: CG02
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: green
+	name: CG03
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: green
+	name: CG04
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: green
+	name: CG05
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: green
+	name: CG06
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: green
+	name: CG07
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: green
+	name: CG08
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: green
+	name: CG09
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: green
+	name: CG10
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: green
+	name: CG11
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: green
+	name: CG12
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: green
+	name: CG13
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: green
+	name: CG14
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: green
+	name: CG15
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: green
+	name: CG16
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 15:26:06
+	card_color: multicolor
+	name: CM06
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 17:09:21
+	card_color: green
+	name: CA10 Rider’s Clasp
+	casting_cost: 1G
+	image: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rarity: common
+	rule_text:
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Add <sym-auto>RG</sym-auto>
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Add <sym-auto>GW</sym-auto>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 15:24:44
+	card_color: green
+	name: CL10
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: common
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: white
+	name: UW01
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: white
+	name: UW02
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: white
+	name: UW03
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: white
+	name: UW04
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: white
+	name: UW05
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: white
+	name: UW06
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: white
+	name: UW07
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: white
+	name: UW08
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: white
+	name: UW09
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: white
+	name: UW10
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: white
+	name: UW11
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: blue
+	name: UU01
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: blue
+	name: UU02
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: blue
+	name: UU03
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: blue
+	name: UU04
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: blue
+	name: UU05
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: blue
+	name: UU06
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: blue
+	name: UU07
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: blue
+	name: UU08
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: blue
+	name: UU09
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: blue
+	name: UU10
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: blue
+	name: UU11
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: black
+	name: UB01
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: black
+	name: UB02
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: black
+	name: UB03
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: black
+	name: UB04
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: black
+	name: UB05
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: black
+	name: UB06
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: black
+	name: UB07
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: black
+	name: UB08
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: black
+	name: UB09
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: black
+	name: UB10
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: black
+	name: UB11
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: red
+	name: UR01
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: red
+	name: UR02
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: red
+	name: UR03
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: red
+	name: UR04
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: red
+	name: UR05
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: red
+	name: UR06
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: red
+	name: UR07
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: red
+	name: UR08
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: red
+	name: UR09
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: red
+	name: UR10
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: red
+	name: UR11
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: green
+	name: UG01
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: green
+	name: UG02
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: green
+	name: UG03
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: green
+	name: UG04
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: green
+	name: UG05
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: green
+	name: UG06
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: green
+	name: UG07
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: green
+	name: UG08
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: green
+	name: UG09
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: green
+	name: UG10
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: green
+	name: UG11
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: white
+	name: RW01
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: white
+	name: RW02
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: white
+	name: RW03
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: white
+	name: RW04
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: white
+	name: RW05
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: white
+	name: RW06
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: white
+	name: RW07
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: blue
+	name: RU01
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: blue
+	name: RU02
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: blue
+	name: RU03
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: blue
+	name: RU04
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: blue
+	name: RU05
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: blue
+	name: RU06
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: blue
+	name: RU07
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: black
+	name: RB01
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: black
+	name: RB02
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: black
+	name: RB03
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: black
+	name: RB04
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: black
+	name: RB05
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: black
+	name: RB06
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: black
+	name: RB07
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: red
+	name: RR01
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: red
+	name: RR02
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: red
+	name: RR03
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: red
+	name: RR04
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: red
+	name: RR05
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: red
+	name: RR06
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: red
+	name: RR07
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: green
+	name: RG01
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: green
+	name: RG02
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: green
+	name: RG03
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: green
+	name: RG04
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: green
+	name: RG05
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: green
+	name: RG06
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: green
+	name: RG07
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: white
+	name: MW01
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: mythic rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: white
+	name: MW02
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: mythic rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: blue
+	name: MU01
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: mythic rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: blue
+	name: MU02
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: mythic rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: black
+	name: MB01
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: mythic rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: black
+	name: MB02
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: mythic rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: red
+	name: MR01
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: mythic rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: red
+	name: MR02
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: mythic rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: green
+	name: MG01
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: mythic rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	card_color: green
+	name: MG02
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: mythic rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: UM01
+	casting_cost: WU
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: UM01
+	casting_cost: UB
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: UM01
+	casting_cost: BR
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: UM01
+	casting_cost: RG
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: UM01
+	casting_cost: GW
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: UM01
+	casting_cost: WB
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: UM01
+	casting_cost: UR
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: UM01
+	casting_cost: BG
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: UM01
+	casting_cost: RW
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: UM01
+	casting_cost: GU
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: RM01
+	casting_cost: WU
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: RM01
+	casting_cost: UB
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: RM01
+	casting_cost: BR
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: RM01
+	casting_cost: RG
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: RM01
+	casting_cost: GW
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: RM01
+	casting_cost: WB
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: RM01
+	casting_cost: UR
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: RM01
+	casting_cost: BG
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: RM01
+	casting_cost: RW
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: RM01
+	casting_cost: GU
+	image: 
+	super_type: <word-list-type-en></word-list-type-en>
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: CA01
+	image: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	rarity: common
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: CA02
+	image: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: CA03
+	image: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: CA04
+	image: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	rarity: common
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: CA05
+	image: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	rarity: common
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: UA01
+	image: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	rarity: uncommon
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: UA02
+	image: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: UA03
+	image: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: UA04
+	image: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: UA05
+	image: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: Terramorphic Expanse
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 18:34:18
+	name: CL01
+	image: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	rarity: common
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>
+		<sym-auto>T</sym-auto>: Add one mana of any color. Activate this ability only if this land is fortified. 
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 15:39:30
+	name: UL01 — Utility Land
+	image: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	rarity: uncommon
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: UL02
+	image: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: UL03
+	image: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: UL04
+	image: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	rarity: uncommon
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: UL05
+	image: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	rarity: uncommon
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: UX01
+	image: 
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: UX02
+	image: 
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: UX03
+	image: 
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: UX04
+	image: 
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: UX05
+	image: 
+	rarity: uncommon
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: RX01
+	image: 
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: RX02
+	image: 
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: RX03
+	image: 
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: RX04
+	image: 
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: RX05
+	image: 
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: RX06
+	image: 
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: RX07
+	image: 
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: RX08
+	image: 
+	rarity: rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: MX01
+	image: 
+	rarity: mythic rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: MX02
+	image: 
+	rarity: mythic rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: MX03
+	image: 
+	rarity: mythic rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: MX04
+	image: 
+	rarity: mythic rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-26 14:37:51
+	name: MX05
+	image: 
+	rarity: mythic rare
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+version_control:
+	type: none
+apprentice_code: 
