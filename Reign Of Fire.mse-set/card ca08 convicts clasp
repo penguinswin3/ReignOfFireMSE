@@ -1,0 +1,22 @@
+﻿mse_version: 2.1.2
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-27 16:01:14
+	card_color: black
+	name: CA08 Convict’s Clasp
+	casting_cost: 1B
+	image: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rarity: common
+	rule_text: <sym-auto>B</sym-auto>, <sym-auto>T</sym-auto>: Add <sym-auto>UB</sym-auto>, <sym-auto>BB</sym-auto>, or <sym-auto>BR</sym-auto>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

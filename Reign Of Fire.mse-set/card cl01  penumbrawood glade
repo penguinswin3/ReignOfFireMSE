@@ -1,0 +1,28 @@
+﻿mse_version: 2.1.2
+card:
+	has_styling: false
+	notes:
+		Could add basic land types so that there a weird fetching loop
+		
+		Also consider homelands triple lands
+		[[Wizard’s School]]
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-27 19:18:46
+	card_color: white, black, green, land, horizontal
+	name: CL01 — Penumbrawood Glade
+	image: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: common
+	rule_text:
+		<atom-cardname><nospellcheck>Penumbrawood Glade</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>B</sym-auto>.
+		<kw-A><nospellcheck><param-one_word>Plains</param-one_word>cycling <param-cost><sym-auto>2</sym-auto></param-cost></nospellcheck><atom-reminder-action> <i-auto>(<param-cost><sym-auto>2</sym-auto></param-cost>, Discard this card: Search your library for a <param-one_word>Plains</param-one_word> card, reveal it, and put it into your hand, then shuffle.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

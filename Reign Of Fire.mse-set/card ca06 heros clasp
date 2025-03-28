@@ -1,0 +1,29 @@
+﻿mse_version: 2.1.2
+card:
+	has_styling: false
+	notes:
+		Art depicts a close up of a clasp worn on the shoulder of Jullian Steyr, only able to see his smug grin. Like Lilliana’s Triumph but the bottom half rather than right half. 
+		
+		A different like signet 
+		
+		could make it a colorless cost 
+		
+		These could change to be more like cluestones eventually or banners 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-27 16:01:22
+	card_color: white
+	name: CA06 Hero’s Clasp
+	casting_cost: 1W
+	image: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rarity: common
+	rule_text: <sym>W</sym>, <sym-auto>T</sym-auto>: Add <sym-auto>WB</sym-auto>, <sym-auto>WW</sym-auto>, or <sym-auto>GW</sym-auto>
+	flavor_text: <i-flavor>A true hero must always fulfill their destiny, no matter the means.</i-flavor>
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

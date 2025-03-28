@@ -1,0 +1,25 @@
+﻿mse_version: 2.1.2
+card:
+	has_styling: false
+	notes:
+		Util Land
+		
+		fortified?
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-27 10:24:13
+	name: CL01 — Ridgehold Plateau
+	image: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	rarity: common
+	rule_text:
+		<atom-cardname><nospellcheck>Ridgehold Plateau</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Add one mana of any color.
+
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
