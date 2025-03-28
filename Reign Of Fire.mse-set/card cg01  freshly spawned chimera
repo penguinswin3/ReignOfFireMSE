@@ -1,0 +1,24 @@
+﻿mse_version: 2.1.2
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-27 22:45:48
+	card_color: green
+	name: CG01 — Freshly Spawned Chimera
+	casting_cost: G
+	image: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Bird</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cat</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Chimera</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text: <sym-auto>R/W</sym-auto>: <atom-cardname><nospellcheck>Freshly Spawned Chimera</nospellcheck></atom-cardname> gains <kw-a><nospellcheck>flying</nospellcheck></kw-a> until end of turn
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

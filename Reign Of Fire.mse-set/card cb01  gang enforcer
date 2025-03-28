@@ -1,0 +1,26 @@
+﻿mse_version: 2.1.2
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-28 15:17:55
+	card_color: black
+	name: CB01 — Gang Enforcer
+	casting_cost: B
+	image: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		<sym-auto>1R</sym-auto>: Target creature you control gains <kw-a><nospellcheck>haste</nospellcheck></kw-a> until end of turn.
+		<sym-auto>1U</sym-auto>, <sym-auto>T</sym-auto>: <kw-a><nospellcheck>Scry <param-number>1</param-number></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

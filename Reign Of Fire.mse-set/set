@@ -16,7 +16,7 @@ styling:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-include_file: card cw01
+include_file: card cw01 aiding adventurer
 include_file: card cw02
 include_file: card cw03
 include_file: card cw04
@@ -35,7 +35,7 @@ include_file: card cw16
 include_file: card cm01
 include_file: card ca06 heros clasp
 include_file: card cl01  penumbrawood glade
-include_file: card cu01
+include_file: card cu01  young valentha
 include_file: card cu02
 include_file: card cu03
 include_file: card cu04
@@ -54,9 +54,9 @@ include_file: card cu16
 include_file: card cm02
 include_file: card ca07 cultists clasp
 include_file: card cl02  darksalt shoals
-include_file: card cb01  gang firebrander
-include_file: card cb02
-include_file: card cb03
+include_file: card cb01  gang enforcer
+include_file: card cb02  astranged cultist
+include_file: card cb03  shunned follower
 include_file: card cb04
 include_file: card cb05
 include_file: card cb06
@@ -92,7 +92,7 @@ include_file: card cr16
 include_file: card cm04
 include_file: card ca09 primalists clasp
 include_file: card cl04  volcanic gardens
-include_file: card cg01  young chimera
+include_file: card cg01  steyrian chimera rider
 include_file: card cg02
 include_file: card cg03
 include_file: card cg04
@@ -265,6 +265,12 @@ include_file: card mx02
 include_file: card mx03
 include_file: card mx04
 include_file: card mx05
+keyword:
+	keyword: Chimeric
+	match: chimeric
+	reminder: Chimera, mutated creatures, and non-Human creatures with three or more creature types are chimeric
+	rules: 
+	mode: custom
 version_control:
 	type: none
 apprentice_code: 
