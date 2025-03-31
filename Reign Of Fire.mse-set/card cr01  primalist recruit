@@ -1,26 +1,28 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: AIR GENASI
 	time_created: 2025-03-26 14:37:51
-	time_modified: 2025-03-28 15:45:10
+	time_modified: 2025-03-30 22:23:51
 	card_color: red
 	name: CR01 — Primalist Recruit
 	casting_cost: R
 	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Genasi </word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
 	rule_text:
-		<sym-auto>1U</sym-auto>: Target creature you control gains <kw-a><nospellcheck>flying</nospellcheck></kw-a> until end of turn
+		<sym-auto>1U</sym-auto>: Target creature you control gains <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn
 		<sym-auto>1G</sym-auto>, <sym-auto>T</sym-auto>: Put a +1/+1 counter on another target creature you control.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 2
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

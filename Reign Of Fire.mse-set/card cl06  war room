@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes:
@@ -9,6 +9,9 @@ card:
 	time_modified: 2025-03-27 19:43:41
 	name: CL06 — War Room
 	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
 	super_type: <word-list-type-en>Land</word-list-type-en>
 	rarity: common
 	rule_text:
@@ -16,9 +19,8 @@ card:
 		<sym-auto>T</sym-auto>: Add one mana of any color. Activate only if this land is fortified. 
 	flavor_text: <i-flavor>What good is a War Room without a stronghold around it?</i-flavor>
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 
