@@ -22,7 +22,7 @@ Each color trio can be split out between Vision, Values, and Means. It is import
 ## Mechanical Themes
 
 WIP
-
+|           |             |                      |                        |                |
 | --------- | ----------- | -------------------- | ---------------------- | ---------------|
 | **Color** | **Faction** | **Primary Mechanic** | **Secondary Mechanic** | Other Mechanics |
 | G**W**B | The Heroes | Party | Legends Matter  | Quests, Sagas, Equipment |
