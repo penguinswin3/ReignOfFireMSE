@@ -39,6 +39,11 @@ The primary draft archetypes are centered around the Primary Color theme, with o
 
 At the core of the adventurous hero faction, you have the tried and true party: Warrior, Wizard, Cleric, and Thief. The various (typically Human or Elf, sometimes Giant or Elemental) humanoid cards in these colors will almost always have one of the party creature types. You may find these in other colors as well, but usually without the mention of the party. 
 
+Mechanical themes include: Things that buff your creatures, but buff further if theyre in your party. Spells that do things better based on your party. 
+
+
+
+
 #### Legends
 
 Heroes are legendary, or at least the great ones are. In addition to being party members, Legendary creatures love supporting each other, either providing buffs, or recieving them better than others. A party of legendary creatures is a force to be recokened with. 
