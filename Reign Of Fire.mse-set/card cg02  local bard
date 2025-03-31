@@ -1,0 +1,24 @@
+﻿mse_version: 2.1.2
+card:
+	has_styling: false
+	notes: Heroes
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-29 11:55:15
+	card_color: green
+	name: CG02 — Local Bard
+	casting_cost: 1G
+	image: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Bard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text: <sym-auto>T</sym-auto>: Target creature you control gets +1/+1 for each creature in your <kw-A><nospellcheck>party</nospellcheck><atom-reminder-action> <i-auto>(Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 2
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

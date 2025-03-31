@@ -55,7 +55,7 @@ include_file: card cm02
 include_file: card ca07 cultists clasp
 include_file: card cl02  darksalt shoals
 include_file: card cb01  gang enforcer
-include_file: card cb02  astranged cultist
+include_file: card cb02  far-marsh ritualist
 include_file: card cb03  shunned follower
 include_file: card cb04
 include_file: card cb05
@@ -74,8 +74,8 @@ include_file: card cm03
 include_file: card ca08 convicts clasp
 include_file: card cl03  isolated cape
 include_file: card cr01  primalist recruit
-include_file: card cr02
-include_file: card cr03
+include_file: card cr02  bomber lackey
+include_file: card cr03  ferocious mountain lion
 include_file: card cr04
 include_file: card cr05
 include_file: card cr06
@@ -92,9 +92,9 @@ include_file: card cr16
 include_file: card cm04
 include_file: card ca09 primalists clasp
 include_file: card cl04  volcanic gardens
-include_file: card cg01  steyrian chimera rider
-include_file: card cg02
-include_file: card cg03
+include_file: card cg01  steyrian chimera tamer
+include_file: card cg02  local bard
+include_file: card cg03  primalist channeler
 include_file: card cg04
 include_file: card cg05
 include_file: card cg06
@@ -257,7 +257,7 @@ include_file: card rl02  cultist land
 include_file: card rl03  gang land
 include_file: card rl04  primalist land
 include_file: card rl05  city land
-include_file: card rx06
+include_file: card rx06  draconic triskellion
 include_file: card rx07
 include_file: card rx08
 include_file: card mx01
@@ -268,7 +268,13 @@ include_file: card mx05
 keyword:
 	keyword: Chimeric
 	match: chimeric
-	reminder: Chimera, mutated creatures, and non-Human creatures with three or more creature types are chimeric
+	reminder: Chimeras, mutated creatures, and non-Human, non-Elf creatures with three or more creature types are chimeric
+	rules: 
+	mode: custom
+keyword:
+	keyword: Firebomb token
+	match: Firebomb toke<atom-param>*s</atom-param>
+	reminder: {if param1.value == "ns" then "They’re artifacts" else "It’s an artifact"} with "2, T, Sacrifice this artifact: CARDNAME> deals 2 damage to any target. Activate only as a sorcery."
 	rules: 
 	mode: custom
 version_control:

@@ -8,6 +8,7 @@ card:
 	image: 
 	super_type: <word-list-type-en>Artifact</word-list-type-en>
 	rarity: common
+	card_code_text: 
 	copyright: 
 	image_2: 
 	copyright_2: 
