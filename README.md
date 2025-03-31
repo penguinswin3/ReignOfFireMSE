@@ -26,16 +26,22 @@ Should I expand the definition of party so that stuff like shaman and warlocks a
 ### Cycle Goals
 
 1 cycle at common
+
 2 cycle at uncommon
+
 3+ at rare/mythic rare
 
  A cycle of mana rocks at common (banners, signets, lockets, etc.) 
 		CA6-CA10, Clasp cycle
 
 Dual lands at common is smart (possibly one land in each pack)
+
   CL01-CL05, Landcycling cycle
+  
 Tri lands of some kind at uncommon
+
   Ul01-05, faction land cycle
+  
 Cycle of rare lands that produce 2+ colors
 
 
@@ -63,56 +69,95 @@ Red Flag Reminders
 ### Commons Design
 
 Creatures : White (total: 12)
+
 1cmc : 2 : small, small
+
 2cmc : 4 : small, small, small, small
+
 3cmc : 3 : small, small, small
+
 4cmc : 2 : small/medium, small/medium
+
 5cmc : 1 : small/medium
+
 6cmc : 0 :
 
 Creatures : Blue (total: 9)
+
 1cmc : 1 : small
+
 2cmc : 2 : small, small
+
 3cmc : 2 : small, small
+
 4cmc : 2 : small, small/medium
+
 5cmc : 2 : small/medium, medium
+
 6cmc : 0 :
 
 Creatures : Black (total: 10)
+
 1cmc : 1 : small
+
 2cmc : 2 : smalle, small
+
 3cmc : 3 : small, small, medium
+
 4cmc : 2 : medium, medium
+
 5cmc : 1 : medium
+
 6cmc : 1 : medium
 
 Creatures : Red (total: 10)
+
 1cmc : 1 : small
+
 2cmc : 2 : small, small
+
 3cmc : 3 : small, small, medium
+
 4cmc : 2 : small, medium
+
 5cmc : 1 : medium
+
 6cmc : 1 : medium/large
 
 Creatures : Green (total: 11)
+
 1cmc : 1 : small
+
 2cmc : 2 : small, small
+
 3cmc : 3 : small, medium, medium
+
 4cmc : 2 : medium, medium
+
 5cmc : 1 : medium/large
+
 6cmc : 1 : large
+
 7cmc : 1 : large
 
 ### Mana Distribution
 Approximate Converted Mana distribution of each color
+
 1 : 3-4 :
+
 2 : 5-6 :
+
 3 : 4-5 :
+
 4 : 3-4 :
+
 5 : 1-2 :
+
 6+: 1-2 :
 
 ### Size Reference
 Small: 0/1 -> 2/3
+
 Medium: 3/3 -> 4/5
+
 Large: 5/5+
