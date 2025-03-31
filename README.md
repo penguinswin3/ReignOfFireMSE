@@ -25,11 +25,11 @@ WIP
 |           |             |                      |                        |                |
 | --------- | ----------- | -------------------- | ---------------------- | --------------- |
 | **Color** | **Faction** | **Primary Mechanic** | **Secondary Mechanic** | **Tertiary Mechanic** |
-| G**W**B | The Heroes | Party | Legends Matter  | Sagas | 
-| B**U**W | Cult of the Dragon | Toughness Matters | Disguise |Removing -1/-1 counters |
-| U**B**R | Gang Fusemont | Crime | Artifact Burn (Bombs) | Fortifications |
-| U**R**G | Ur Primalists | Elemental Tribal | Channel | Exile Instants/Sorceries |
-| W**G**R | Jyn Steyr | Saddle | Mutate | Lords/Anthems |
+| G**W**B | The Heroes | W: Party | G: Legends Matter  | B: Sagas | 
+| B**U**W | Cult of the Dragon | U: Toughness Matters | W: Disguise | B: Removing -1/-1 counters |
+| U**B**R | Gang Fusemont | B: Crime | R: Artifact Burn (Bombs) | U: Fortifications |
+| U**R**G | Ur Primalists | R: Elemental Tribal | G: Channel | U: Exile Instants/Sorceries |
+| W**G**R | Jyn Steyr | G: Saddle | R: Mutate | W: Lords/Anthems |
 
 
 ## Design Notes
