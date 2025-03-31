@@ -42,8 +42,6 @@ At the core of the adventurous hero faction, you have the tried and true party: 
 Mechanical themes include: Things that buff your creatures, but buff further if theyre in your party. Spells that do things better based on your party. 
 
 
-
-
 #### Legends
 
 Heroes are legendary, or at least the great ones are. In addition to being party members, Legendary creatures love supporting each other, either providing buffs, or recieving them better than others. A party of legendary creatures is a force to be recokened with. 
@@ -65,18 +63,29 @@ Being a secret cultist is hard, and that often means long periods of endurance a
 
 ### Gang Fusemont
 
+#### Crime
 
+#### Artifact Burn
 
+#### Fortification
 
 
 ### Ur Primalists
 
+#### Elementals
 
+#### Channel
 
+#### Evoke
 
 
 ### Jyn Steyr
 
+#### Saddle
+
+#### Mutate
+
+#### Lords/Anthems
 
 
 
