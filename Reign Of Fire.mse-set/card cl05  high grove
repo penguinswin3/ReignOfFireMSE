@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -7,18 +7,20 @@ card:
 	card_color: white, red, green, land, horizontal
 	name: CL05 — High Grove
 	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
 	super_type: <word-list-type-en>Land</word-list-type-en>
 	sub_type: <word-list-land></word-list-land>
 	rarity: common
 	rule_text:
 		<atom-cardname><nospellcheck>High Grove</nospellcheck></atom-cardname> enters Tapped
 		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>R</sym-auto> 
-		<kw-A><nospellcheck><param-one_word>Forest</param-one_word>cycling <param-cost><sym-auto>2</sym-auto></param-cost></nospellcheck><atom-reminder-action> <i-auto>(<param-cost><sym-auto>2</sym-auto></param-cost>, Discard this card: Search your library for a <param-one_word>Forest</param-one_word> card, reveal it, and put it into your hand, then shuffle.)</i-auto></atom-reminder-action></kw-A>
+		<kw-A><nospellcheck><key><param-one_word>Forest</param-one_word>cycling <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck><atom-reminder-action> <i-auto>(<param-cost><sym-auto>2</sym-auto></param-cost>, Discard this card: Search your library for a <param-one_word>Forest</param-one_word> card, reveal it, put it into your hand, then shuffle.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 
