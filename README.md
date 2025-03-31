@@ -19,14 +19,21 @@ Each color trio can be split out between Vision, Values, and Means. It is import
 | R        | U**R**G  | Ur Primalists      | U:Perfection | R: Destruction   | G: Spirituality | Can a perfect society be crafted through tearing down only the perceived bad parts? Is there room in a perfect society to accommodate the “out group”?                         |
 | G        | W**G**R  | Jyn Steyr          | W: Law       | G: Tradition     | R: Action       | Can or should tradition be upheld through structured law? How should one act in new situations where standing law just isn't clear enough?                                     |
 
+## Mechanical Themes
+
+WIP
+
+
+
+
 ## Design Notes
 
-Should I expand the definition of party so that stuff like shaman and warlocks and shit count as mages? 
+Should the definition of party be expanded so that stuff like shaman and warlocks count as mages? 
 
 ### Cycle Goals
 
 1 cycle at common
-
+	
 2 cycle at uncommon
 
 3+ at rare/mythic rare
