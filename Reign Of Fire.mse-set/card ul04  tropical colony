@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.1.2
 card:
 	has_styling: false
 	notes: 
@@ -6,9 +6,6 @@ card:
 	time_modified: 2025-03-27 15:26:14
 	name: UL04 — Tropical Colony
 	image: 
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
 	super_type: <word-list-type-en>Land</word-list-type-en>
 	sub_type: <word-list-land>Mountain</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
 	rarity: uncommon
@@ -19,7 +16,9 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 
-	card_code_text_3: 
 	copyright: 
+	image_2: 
 	copyright_2: 
 	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

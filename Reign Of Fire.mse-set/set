@@ -1,8 +1,8 @@
 ﻿mse_version: 2.0.2
 game: magic
-game_version: 2024-10-01
+game_version: 2020-04-25
 stylesheet: m15-altered
-stylesheet_version: 2024-09-23
+stylesheet_version: 2024-01-05
 set_info:
 	title: Reign Of Fire
 	description: A Three colored set designed around a TTRPG campaign I run
@@ -212,15 +212,15 @@ include_file: card mr02
 include_file: card mg01
 include_file: card mg02
 include_file: card um01
-include_file: card um01.1
-include_file: card um01.2
-include_file: card um01.3
-include_file: card um01.4
-include_file: card um01.5
-include_file: card um01.6
-include_file: card um01.7
-include_file: card um01.8
-include_file: card um01.9
+include_file: card um02
+include_file: card um03
+include_file: card um04
+include_file: card um05
+include_file: card ux06
+include_file: card ux07
+include_file: card ux08
+include_file: card ux09
+include_file: card ux10
 include_file: card rm01
 include_file: card rm01.1
 include_file: card rm01.2
