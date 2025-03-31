@@ -22,14 +22,14 @@ Each color trio can be split out between Vision, Values, and Means. It is import
 ## Mechanical Themes
 
 WIP
-|           |             |                      |                        |                |
-| --------- | ----------- | -------------------- | ---------------------- | ---------------|
-| **Color** | **Faction** | **Primary Mechanic** | **Secondary Mechanic** | Other Mechanics |
-| G**W**B | The Heroes | Party | Legends Matter  | Quests, Sagas, Equipment |
-| B**U**W | Cult of the Dragon | Toughness Matters | Disguise | Removing -1/-1 counters |
-| U**B**R | Gang Fusemont | Crime | Artifact Burn (Bombs) | Fortifications, Outlaws |
-| U**R**G | Ur Primalists | Elemental Tribal | Channel | Edicts |
-| W**G**R | Jyn Steyr | Saddle | Mutate | Lords/Anthems |
+|           |             |                      |                        |                |               |
+| --------- | ----------- | -------------------- | ---------------------- | --------------- | ------------ |
+| **Color** | **Faction** | **Primary Mechanic** | **Secondary Mechanic** | Tertiary Mechanic | Other Mechanics |
+| G**W**B | The Heroes | Party | Legends Matter  |           |Quests, Sagas, Equipment |
+| B**U**W | Cult of the Dragon | Toughness Matters | Disguise |              | Removing -1/-1 counters |
+| U**B**R | Gang Fusemont | Crime | Artifact Burn (Bombs) |               | Fortifications, Outlaws |
+| U**R**G | Ur Primalists | Elemental Tribal | Channel |           | Edicts |
+| W**G**R | Jyn Steyr | Saddle | Mutate |              | Lords/Anthems |
 
 
 ## Design Notes
