@@ -21,14 +21,62 @@ Each color trio can be split out between Vision, Values, and Means. It is import
 
 ## Mechanical Themes
 
-|           |             |                      |                        |                |
-| --------- | ----------- | -------------------- | ---------------------- | --------------- |
-| **Color** | **Faction** | **Primary Mechanic** | **Secondary Mechanic** | **Tertiary Mechanic** |
-| G**W**B | The Heroes | W: Party | G: Legends Matter  | B: Sagas | 
-| B**U**W | Cult of the Dragon | U: Toughness Matters | W: Disguise | B: Removing -1/-1 counters |
-| U**B**R | Gang Fusemont | B: Crime | R: Artifact Burn (Bombs) | U: Fortifications |
-| U**R**G | Ur Primalists | R: Elemental Tribal | G: Channel | U: Exile Instants/Sorceries |
-| W**G**R | Jyn Steyr | G: Saddle | R: Mutate | W: Lords/Anthems |
+The primary draft archetypes are centered around the Primary Color theme, with one of the other themes supplimenting it. For example, The Heroes have Party as a primary mechanic, with either Legends or Sagas as a secondary mechanic. Naturally, it makes sense to bridge into the other option as well, more as a splash. 
+
+
+|           |                    |                      |                          |                             |
+| --------- | ------------------ | -------------------- | ------------------------ | --------------------------- |
+| **Color** | **Faction**        | **Primary Mechanic** | **Secondary Mechanic**   | **Tertiary Mechanic**       |
+| G**W**B   | The Heroes         | W: Party             | G: Legends Matter        | B: Sagas                    | 
+| B**U**W   | Cult of the Dragon | U: Toughness Matters | W: Disguise              | B: Removing -1/-1 counters  |
+| U**B**R   | Gang Fusemont      | B: Crime             | R: Artifact Burn (Bombs) | U: Fortifications           |
+| U**R**G   | Ur Primalists      | R: Elemental Tribal  | G: Channel               | U: Exile Instants/Sorceries |
+| W**G**R   | Jyn Steyr          | G: Saddle            | R: Mutate                | W: Lords/Anthems            |
+
+### The Heroes
+
+#### Party
+
+At the core of the adventurous hero faction, you have the tried and true party: Warrior, Wizard, Cleric, and Thief. The various (typically Human or Elf, sometimes Giant or Elemental) humanoid cards in these colors will almost always have one of the party creature types. You may find these in other colors as well, but usually without the mention of the party. 
+
+#### Legends
+
+Heroes are legendary, or at least the great ones are. In addition to being party members, Legendary creatures love supporting each other, either providing buffs, or recieving them better than others. A party of legendary creatures is a force to be recokened with. 
+
+#### Sagas
+
+Where heroic deeds are done, the tales of their triumphs are sure to follow. Heroes of old, while no longer around, are still remembered through the stories they made, for better or for worse. A party following the steps of the great heroes who came before them can learn from the victories and failures. 
+
+
+### Cult of the Dragon
+
+#### Toughness Matters
+
+Being a secret cultist is hard, and that often means long periods of endurance and hardship. While often not on the attack, these cultist can stick around. 
+
+#### Removing -1/-1 Counters
+
+#### Disguise
+
+### Gang Fusemont
+
+
+
+
+
+### Ur Primalists
+
+
+
+
+
+### Jyn Steyr
+
+
+
+
+
+
 
 
 ## Design Notes
