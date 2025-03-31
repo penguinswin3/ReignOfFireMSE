@@ -21,7 +21,6 @@ Each color trio can be split out between Vision, Values, and Means. It is import
 
 ## Mechanical Themes
 
-WIP
 |           |             |                      |                        |                |
 | --------- | ----------- | -------------------- | ---------------------- | --------------- |
 | **Color** | **Faction** | **Primary Mechanic** | **Secondary Mechanic** | **Tertiary Mechanic** |
