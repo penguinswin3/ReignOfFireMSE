@@ -46,10 +46,13 @@ Mechanical themes include: Things that buff your creatures, but buff further if 
 
 Heroes are legendary, or at least the great ones are. In addition to being party members, Legendary creatures love supporting each other, either providing buffs, or recieving them better than others. A party of legendary creatures is a force to be recokened with. 
 
+Mechanical themes include: Legend conditional payoffs, generally good creatures, legends that make achieving the party easier.
+
 #### Sagas
 
 Where heroic deeds are done, the tales of their triumphs are sure to follow. Heroes of old, while no longer around, are still remembered through the stories they made, for better or for worse. A party following the steps of the great heroes who came before them can learn from the victories and failures. 
 
+Mechanical themes include: Buffs to parties, Preliminary checks along the way, sagas that "recurit" party members, such as tutors or flip into a hero.
 
 ### Cult of the Dragon
 
@@ -57,35 +60,59 @@ Where heroic deeds are done, the tales of their triumphs are sure to follow. Her
 
 Being a secret cultist is hard, and that often means long periods of endurance and hardship. While often not on the attack, these cultist can stick around. 
 
+Mechanical themes include: 
+
 #### Removing -1/-1 Counters
 
+Mechanical themes include: Starting with -1/-1 and growing, transfering them as removal, more toughness = more allowed -1/-1, payoffs for having a lot of -1/-1.
+
 #### Disguise
+
+Mechanical themes include: bonus toughness for combat, unblockable things, disguised creatures dying, discounts on turning up other disguised
 
 ### Gang Fusemont
 
 #### Crime
 
+Mechanical themes include: 
+
 #### Artifact Burn
 
+Mechanical themes include: bomb tokens, sacing creatures for value, direct burn, converting artifacts into bombs
+
 #### Fortification
+
+Mechanical themes include: slow burn beatdown, lands to help commit crime, fortifying opponent lands. "Crime base of operations" aka thieves guild 
 
 
 ### Ur Primalists
 
 #### Elementals
 
+Mechanical themes include: 
+
 #### Channel
 
-#### Evoke
+Mechanical themes include: Control pieces, stuff in grave, channel from grave, incarnation effects, combat tricks as channel abilities
+
+#### Exiling Spells
+
+Mechanical themes include: Evoke, forks, copy, cares about exiled spells, redirects
 
 
 ### Jyn Steyr
 
 #### Saddle
 
+Mechanical themes include: 
+
 #### Mutate
 
+Mechanical themes include: keyword soup, saddled benefits, cheap saddling, self saddle, wither disease, good stats
+
 #### Lords/Anthems
+
+Mechanical themes include: toekns, go wide, cathars crusade, tapping
 
 
 
