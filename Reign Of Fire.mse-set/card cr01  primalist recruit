@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: AIR GENASI
 	time_created: 2025-03-26 14:37:51
-	time_modified: 2025-03-31 14:22:51
+	time_modified: 2025-03-31 19:05:57
 	card_color: red
 	name: CR01 — Primalist Recruit
 	casting_cost: R
@@ -12,8 +12,8 @@ card:
 	sub_type: <word-list-race-en>Elemental</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
 	rule_text:
-		<sym-auto>1U</sym-auto>: Target creature you control gains <key><kw-a><nospellcheck>vigilance</key></nospellcheck></kw-a> until end of turn
-		<sym-auto>1G</sym-auto>, <sym-auto>T</sym-auto>: Put a +1/+1 counter on another target creature you control.
+		<sym-auto>1G</sym-auto>: Target creature you control gets <kw-a><nospellcheck>trample</nospellcheck></kw-a> until end of turn.
+		<sym-auto>1U</sym-auto>, <sym-auto>T</sym-auto>: Target creature gets base power and toughness 2/2 until end of turn. 
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 2

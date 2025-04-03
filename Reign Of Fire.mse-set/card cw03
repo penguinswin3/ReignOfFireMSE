@@ -1,12 +1,12 @@
 ﻿mse_version: 2.1.2
 card:
 	has_styling: false
-	notes: 
+	notes: JS — Anthem/Lord
 	time_created: 2025-03-26 14:37:51
-	time_modified: 2025-03-27 19:38:50
+	time_modified: 2025-04-03 18:42:01
 	card_color: white
 	name: CW03
-	casting_cost: 2
+	casting_cost: 1W
 	image: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en></word-list-race-en>

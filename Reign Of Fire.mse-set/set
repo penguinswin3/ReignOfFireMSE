@@ -17,7 +17,7 @@ styling:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 include_file: card cw01 aiding adventurer
-include_file: card cw02
+include_file: card cw02  runaway orphan
 include_file: card cw03
 include_file: card cw04
 include_file: card cw05
@@ -36,8 +36,8 @@ include_file: card cm01
 include_file: card ca06 heros clasp
 include_file: card cl01  penumbrawood glade
 include_file: card cu01  young valentha
-include_file: card cu02
-include_file: card cu03
+include_file: card cu02  sailor drowner
+include_file: card cu03  temple hydromancer
 include_file: card cu04
 include_file: card cu05
 include_file: card cu06
@@ -252,11 +252,11 @@ include_file: card ux02
 include_file: card ux03
 include_file: card ux04
 include_file: card ux05
-include_file: card rl01  hero land
-include_file: card rl02  cultist land
-include_file: card rl03  gang land
-include_file: card rl04  primalist land
-include_file: card rl05  city land
+include_file: card rl01  ridgehold stronghold
+include_file: card rl02  the first respite
+include_file: card rl03  fusemont bastille
+include_file: card rl04  censer isle
+include_file: card rl05  jyn steyr
 include_file: card rx06  draconic triskellion
 include_file: card rx07
 include_file: card rx08

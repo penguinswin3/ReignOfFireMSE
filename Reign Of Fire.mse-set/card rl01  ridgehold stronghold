@@ -1,0 +1,25 @@
+﻿mse_version: 2.1.2
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-03-31 18:52:39
+	name: RL01 — Ridgehold Stronghold
+	image: 
+	super_type: <word-list-type-en>Legendary Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Ridgehold Stronghold</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>
+		<sym-auto>T</sym-auto>: Add one mana for each color among creatures in your <kw-A><nospellcheck>party</nospellcheck>.<atom-reminder-action> <i-auto>(Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	watermark: none
+	card_code_text: 
+	card_code_text_2: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
