@@ -1,0 +1,28 @@
+﻿mse_version: 2.1.2
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-04-03 19:36:27
+	card_color: blue
+	name: MU01 — Cazador Valentha, Chimeric Pathologist
+	casting_cost: 2UU
+	image: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck>Hexproof</nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Cazador Valentha, Chimeric Pathologist</nospellcheck></atom-cardname> enters, create a 1/1 blue <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>homunculus</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creature token with <kw-a><nospellcheck>flying</nospellcheck></kw-a>.
+		When <atom-cardname><nospellcheck>Cazador Valentha, Chimeric Pathologist</nospellcheck></atom-cardname> dies, draw two cards.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 5
+	card_code_text: 
+	card_code_text_2: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

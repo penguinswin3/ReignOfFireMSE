@@ -201,16 +201,16 @@ include_file: card rg04
 include_file: card rg05
 include_file: card rg06
 include_file: card rg07
-include_file: card mw01
-include_file: card mw02
-include_file: card mu01
-include_file: card mu02
-include_file: card mb01
-include_file: card mb02
-include_file: card mr01
-include_file: card mr02
-include_file: card mg01
-include_file: card mg02
+include_file: card mw01  jullian steyr the founder
+include_file: card mm01
+include_file: card mu01  cazador valentha chimeric pathologist
+include_file: card mm02
+include_file: card mb01  slash prison kingpin
+include_file: card mm03
+include_file: card mr01  fulzacantador the great firebird
+include_file: card mm04
+include_file: card mg01  the wolpertinger
+include_file: card mm05
 include_file: card um01
 include_file: card um02
 include_file: card um03

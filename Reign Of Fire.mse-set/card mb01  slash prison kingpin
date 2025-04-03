@@ -1,0 +1,28 @@
+﻿mse_version: 2.1.2
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-04-03 19:40:25
+	card_color: black
+	name: MB01 — Slash, Prison Kingpin
+	casting_cost: 2BB
+	image: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck>Menace</nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Slash, Prison Kingpin</nospellcheck></atom-cardname> enters, gain control of another target creature.
+		Sacrifice a creature: <atom-cardname><nospellcheck>Slash, Prison Kingpin</nospellcheck></atom-cardname> gets <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>indestructable</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 4
+	card_code_text: 
+	card_code_text_2: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

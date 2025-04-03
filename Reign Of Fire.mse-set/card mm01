@@ -3,9 +3,9 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-26 14:37:51
-	time_modified: 2025-04-03 19:29:18
-	card_color: black
-	name: MB01 — 
+	time_modified: 2025-04-03 19:48:41
+	card_color: white, multicolor
+	name: MM01
 	image: 
 	super_type: <word-list-type-en></word-list-type-en>
 	rarity: mythic rare
