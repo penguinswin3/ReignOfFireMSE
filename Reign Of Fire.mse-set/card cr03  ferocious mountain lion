@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: Jyn Steyr
@@ -8,20 +8,22 @@ card:
 	name: CR03 — Ferocious Mountain Lion
 	casting_cost: 1R
 	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Cat</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
 	rule_text:
-		<kw-A><nospellcheck>Mutate <param-cost><sym-auto>2R</sym-auto></param-cost></nospellcheck><atom-reminder-expert> <i-auto>(If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)</i-auto></atom-reminder-expert></kw-A>
-		<kw-a><nospellcheck>First strike</nospellcheck></kw-a>
-		Whenever this card mutates, another target creature you control gets <kw-a><nospellcheck>first strike</nospellcheck></kw-a> until end of turn.
+		<kw-A><nospellcheck><key>Mutate <param-cost><sym-auto>2R</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>
+		Whenever this card mutates, another target creature you control gets <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

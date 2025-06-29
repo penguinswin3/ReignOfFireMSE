@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: Cult — Disguise
@@ -8,19 +8,21 @@ card:
 	name: CW02 — Runaway Orphan
 	casting_cost: 1W
 	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Elf</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
 	rule_text:
-		<kw-A><nospellcheck>Disguise <param-cost><sym-auto>1WW</sym-auto></param-cost></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card face down for <sym>3</sym> as a 2/2 creature with ward <sym>2</sym>. Turn it face up any time for its disguise cost.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Disguise <param-cost><sym-auto>1WW</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card face down for <sym>3</sym> as a 2/2 creature with ward <sym>2</sym>. Turn it face up any time for its disguise cost.)</i-auto></atom-reminder-expert></kw-A>
 		When <atom-cardname><nospellcheck>Runaway Orphan</nospellcheck></atom-cardname> is turned face up, put a +1/+1 counter on it and up to one other creature you control.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

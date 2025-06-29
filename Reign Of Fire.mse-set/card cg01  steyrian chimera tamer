@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -8,19 +8,21 @@ card:
 	name: CG01 — Steyrian Chimera Tamer
 	casting_cost: G
 	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Human </word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Ranger</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
 	rule_text:
-		<sym-auto>1R</sym-auto>: Target creature you control gains <kw-a><nospellcheck>first strike</nospellcheck></kw-a> until end of turn.
-		<sym-auto>1W</sym-auto>, <sym-auto>T</sym-auto>: Tap target <kw-A><nospellcheck>chimeric</nospellcheck> creature<atom-reminder-custom> <i-auto>(Chimeras, mutated creatures, and non-Human, non-Elf creatures with three or more creature types are chimeric)</i-auto></atom-reminder-custom></kw-A>
+		<sym-auto>1R</sym-auto>: Target creature you control gains <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn.
+		<sym-auto>1W</sym-auto>, <sym-auto>T</sym-auto>: Tap target <kw-A><nospellcheck><key>chimeric</key></nospellcheck> creature<atom-reminder-custom> <i-auto>(Chimeras, mutated creatures, and non-Human, non-Elf creatures with three or more creature types are chimeric)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

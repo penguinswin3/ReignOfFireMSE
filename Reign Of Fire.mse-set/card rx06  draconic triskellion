@@ -1,14 +1,23 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: could be a "level up" thing
 	time_created: 2025-03-26 14:37:51
-	time_modified: 2025-03-29 19:01:45
+	time_modified: 2025-06-29 10:54:46
 	name: RX06 — Draconic Triskellion
-	casting_cost: 5
+	casting_cost: 6
 	image: 
-	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
 	rule_text:
 		<sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>: Target creatures you control can’t be blocked until end of turn.
@@ -16,9 +25,8 @@ card:
 		<sym-auto>9</sym-auto>, <sym-auto>T</sym-auto>: Search your library for any number of legendary creatures. Put them on the battlefield.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

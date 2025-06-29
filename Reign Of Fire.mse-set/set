@@ -1,8 +1,8 @@
 ﻿mse_version: 2.0.2
 game: magic
-game_version: 2020-04-25
+game_version: 2024-10-01
 stylesheet: m15-altered
-stylesheet_version: 2024-01-05
+stylesheet_version: 2024-09-23
 set_info:
 	title: Reign Of Fire
 	description: A Three colored set designed around a TTRPG campaign I run
@@ -245,7 +245,7 @@ include_file: card cl06  war room
 include_file: card ul01  heros stronghold
 include_file: card ul02  cultist lair
 include_file: card ul03  gang cells
-include_file: card ul04  tropical colony
+include_file: card ul04  tropical encampment
 include_file: card ul05  outskirts guardhouse
 include_file: card ux01
 include_file: card ux02

@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes:
@@ -11,19 +11,21 @@ card:
 	name: CB03 — Shunned Follower
 	casting_cost: 1B
 	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Human </word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Monk</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
 	rule_text:
-		<kw-a><nospellcheck>Deathtouch</nospellcheck></kw-a>
-		<key><kw-A><nospellcheck>Ward <param-cost><sym>1</sym></key></param-cost></nospellcheck><atom-reminder-expert> <i-auto>(Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays <param-mana><sym-auto>1</sym-auto></param-mana>.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
+		<kw-A><nospellcheck><key>Ward <param-cost><sym>1</sym></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays <param-mana><sym-auto>1</sym-auto></param-mana>.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
 	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

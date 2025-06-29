@@ -1,4 +1,4 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
@@ -8,21 +8,22 @@ card:
 	name: MW01 — Jullian Steyr, the Founder
 	casting_cost: 2WW
 	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
 	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: mythic rare
 	rule_text:
-		<atom-cardname><nospellcheck>Jullian Steyr, the Founder</nospellcheck></atom-cardname> gets +1/+1 for each member in your <kw-0><nospellcheck>party</nospellcheck></kw-0>. 
-		When <atom-cardname><nospellcheck>Jullian Steyr, the Founder</nospellcheck></atom-cardname> attacks, put a +1/+1 counter on each member of your <kw-0><nospellcheck>party</nospellcheck></kw-0>.
+		<atom-cardname><nospellcheck>Jullian Steyr, the Founder</nospellcheck></atom-cardname> gets +1/+1 for each member in your <kw-0><nospellcheck><key>party</key></nospellcheck></kw-0>. 
+		When <atom-cardname><nospellcheck>Jullian Steyr, the Founder</nospellcheck></atom-cardname> attacks, put a +1/+1 counter on each member of your <kw-0><nospellcheck><key>party</key></nospellcheck></kw-0>.
 		When <atom-cardname><nospellcheck>Jullian Steyr, the Founder</nospellcheck></atom-cardname> dies, exile another target creature.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4
 	card_code_text: 
 	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

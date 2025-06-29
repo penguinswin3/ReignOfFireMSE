@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-03-26 14:37:51
+	time_modified: 2025-06-29 10:50:01
+	name: UL04 — Tropical Encampment
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Mountain</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>, Add <sym-auto>R</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Tropical Encampment</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Add <sym-auto>GU</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

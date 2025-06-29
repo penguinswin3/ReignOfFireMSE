@@ -1,24 +1,25 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-26 14:37:51
-	time_modified: 2025-03-31 18:51:36
+	time_modified: 2025-06-29 10:59:40
 	name: RL02 — The First Respite
 	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
 	super_type: <word-list-type-en>Legendary Land</word-list-type-en>
 	sub_type: <word-list-land></word-list-land>
 	rarity: rare
 	rule_text:
 		<atom-cardname><nospellcheck>The First Respite</nospellcheck></atom-cardname> enters tapped.
-		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>
-		Tap any number of untapped creatures with toughness greater than its power, <sym-auto>T</sym-auto>: Add <sym>C</sym> for each creature tapped this way.
+		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>B</sym-auto>
+		Tap any number of untapped creatures with toughness greater than its power, <sym-auto>T</sym-auto>: Add <sym>U</sym> for each creature tapped this way.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 

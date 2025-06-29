@@ -1,29 +1,30 @@
-﻿mse_version: 2.1.2
+﻿mse_version: 2.5.6
 card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-26 14:37:51
-	time_modified: 2025-04-03 19:47:18
+	time_modified: 2025-06-29 10:45:40
 	card_color: green
 	name: MG01 — The Wolpertinger
 	casting_cost: G
 	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
 	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Rabbit</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Elk</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Bird</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: mythic rare
 	rule_text:
-		<kw-a><nospellcheck>Flying</nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
 		<atom-cardname><nospellcheck>The Wolpertinger</nospellcheck></atom-cardname> can’t be countered.
 		Prevent all damage that would be deal to <atom-cardname><nospellcheck>The Wolpertinger</nospellcheck></atom-cardname>.
-		<kw-A><nospellcheck>Mutate <param-cost><sym-auto>2GG</sym-auto></param-cost></nospellcheck><atom-reminder-expert> <i-auto>(If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Mutate <param-cost><sym-auto>2GG</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
 	card_code_text: 
 	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
-	image_2: 
 	copyright_2: 
 	copyright_3: 
-	mainframe_image: 
-	mainframe_image_2: 
